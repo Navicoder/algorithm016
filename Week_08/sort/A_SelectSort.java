@@ -1,3 +1,5 @@
+package sort;
+
 import java.util.Arrays;
 
 /**
@@ -23,37 +25,12 @@ public class A_SelectSort {
                 }
             }
             if (minIndex != i) {
-                swapArr3(arr,i,minIndex);
+                SortUtil.swapArr3(arr,i,minIndex);
             }
         }
     }
 
-    private void swapArr(int[] arr, int i, int minIndex) {
-        int temp = arr[i];
-        arr[i] = arr[minIndex];
-        arr[minIndex] = temp;
-    }
 
-    /**
-     * 不用额外空间 可能会超精度
-     * @param arr
-     * @param i
-     * @param j
-     */
-    private void swapArr2(int[] arr, int i, int j) {
-        arr[i] = arr[i] + arr[j];
-        arr[j] = arr[i] - arr[j];
-        arr[i] = arr[i] - arr[j];
-    }
-    /**
-     *  异或
-     */
-
-    private void swapArr3(int[] arr, int i, int j) {
-        arr[i] = arr[i] ^ arr[j];
-        arr[j] = arr[i] ^ arr[j];
-        arr[i] = arr[i] ^ arr[j];
-    }
 
     public static void main(String[] args) {
         int[] arr ={1,93,2,2,2,11,1,4,5,777,4,32,1,2,-1,3,4,6,7};
