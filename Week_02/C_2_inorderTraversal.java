@@ -26,7 +26,7 @@ public class C_2_inorderTraversal {
     }
 
     /**
-     * 迭代 很简单
+     * 递归 很简单
      * 执行用时：
      * 0 ms , 在所有 Java 提交中击败了 100.00% 的用户
      * 内存消耗：
@@ -54,7 +54,7 @@ public class C_2_inorderTraversal {
     }
 
     /**
-     * 不用迭代，用 辅助栈
+     * 不用递归，用迭代，需要借助辅助栈
      * 执行用时：
      *      1 ms , 在所有 Java 提交中击败了 46.28% 的用户
      * 内存消耗：
@@ -65,12 +65,15 @@ public class C_2_inorderTraversal {
     public List<Integer> inorderTraversal2(TreeNode root) {
         List<Integer> list = new ArrayList<>();
         Stack<TreeNode> stack = new Stack<>();
+
+        //主意这个递归条件
         while (stack.size() > 0 || root !=null){
 
             //不断往左子树方向走，每走一次就将当前节点保存到栈中
             //这是模拟递归的调用
             if (root != null) {
                 stack.push(root);
+                //左节点入栈
                 root = root.left;
             }else{
                 //当前节点为空，说明左边走到头了，从栈中弹出节点并保存
