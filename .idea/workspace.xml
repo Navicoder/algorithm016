@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43a4944e-bcd4-4805-abe9-84b89bc05600" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithm016.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/chao/week01/E_reverseList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/description.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/skiplists.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashCollicateKeyDemo_JDK8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HashMaoTest_JDK8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/T.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/generacode/suanfa.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoc/pojo/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoc/sort/A_SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoc/sort/AbstractSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoc/sort/B_InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoc/sort/C_BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoc/sort/ChangeSortDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoc/sort/D_MergeSort222.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoc/sort/EE_QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoc/sort/EE_QuickSort2Way.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoc/sort/EE_QuickSort3Way.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoc/sort/E_QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoc/sort/E_QuickSort2Way.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoc/sort/E_QuickSort2Ways_MK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoc/sort/E_QuickSort3Ways_MK.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoc/sort/other.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/immoc/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Kuohao1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Kuohao2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/ThreeNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/WaterArea.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/suanfa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/五毒神掌.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据结构和算法-思维导图.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/算法.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BinaryHeap.java" beforeDir="false" afterPath="$PROJECT_DIR$/BinaryHeap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/com/chao/week01/A_removeDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week01/A_remove0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/com/chao/week01/B_mergeTwoLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week01/B_mergeTwoLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/com/chao/week01/C_mergeTwoArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week01/C_mergeTwoArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/com/chao/week01/D_addOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week01/D_addOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_01/com/chao/week01/E_removeDuplicates.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/A_isAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week02/A_isAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/B_groupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week02/B_groupAnagrams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/C_2_inorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week02/C_2_inorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/D_n_postorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week02/D_n_postorderTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/E_getLeastNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week02/E_getLeastNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/F_maxSlidingWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week02/F_maxSlidingWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/G_topKFrequent.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week02/G_topKFrequent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week02/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/A_ClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week03/A_ClimbingStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/B_GenerateParentheses.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week03/B_GenerateParentheses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/C_BinarySearchTreeValisate.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week03/C_BinarySearchTreeValisate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/D_BinaryReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week03/D_BinaryReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/E_BinaryDeepMaxLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week03/E_BinaryDeepMaxLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/F_BinaryDeepMinLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week03/F_BinaryDeepMinLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week03/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_03/Template.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week03/Template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_04/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week08/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_05/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_06/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_07/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_08/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_08/exercise/AA_RelativeSortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week08/exercise/AA_RelativeSortArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_08/exercise/A_RelativeSortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week08/exercise/A_RelativeSortArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_08/exercise/B_IsAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week08/exercise/B_IsAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_08/exercise/C_MergeArea.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week08/exercise/C_MergeArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_08/exercise/D_ReversePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week08/exercise/D_ReversePairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_08/node.txt" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week08/node.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_08/sort/A_SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week08/sort/A_SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_08/sort/B_InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week08/sort/B_InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_08/sort/C_BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week08/sort/C_BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_08/sort/D_QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week08/sort/D_QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_08/sort/D_QuickSort_ThreeWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week08/sort/D_QuickSort_ThreeWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_08/sort/D_QuickSort_TwoWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week08/sort/D_QuickSort_TwoWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_08/sort/E_MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week08/sort/E_MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_08/sort/F_HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week08/sort/F_HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_08/sort/SortUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/com/chao/week08/sort/SortUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_09/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week_10 毕业总结/10毕业总结.textClipping" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/util/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TreeNode.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository" />
+        <option name="mavenHome" value="E:/develop_tools/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\develop_tools\maven\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1ogf2qkafi9UFU5OMXJvBj3mDZr" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/com/chao/week01" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gant" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\workspace\workspace_own\suanfa\algorithm016\com\chao\week08" />
+      <recent name="E:\workspace\workspace_own\suanfa\algorithm016\com\chao\week03" />
+      <recent name="E:\workspace\workspace_own\suanfa\algorithm016\com\chao\week02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\workspace_own\suanfa\algorithm016\com\chao\week01" />
+      <recent name="E:\workspace\workspace_own\suanfa\algorithm016" />
+      <recent name="E:\workspace\workspace_own\suanfa\algorithm016\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.E_reverseList (1)">
+    <configuration name="E_reverseList (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.chao.week01.E_reverseList" />
+      <module name="algorithm016" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chao.week01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="E_reverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Week_01.com.chao.week01.E_reverseList" />
+      <module name="algorithm016" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Week_01.com.chao.week01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.E_reverseList (1)" />
+        <item itemvalue="Application.E_reverseList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43a4944e-bcd4-4805-abe9-84b89bc05600" name="Default Changelist" comment="" />
+      <created>1613712950094</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613712950094</updated>
+      <workItem from="1613712957547" duration="2348000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="255" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1613714689917">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="255" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1613714689917" />
+    <state x="350" y="58" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613715243586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="350" y="58" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1613715243586" />
+    <state x="217" y="33" width="932" height="662" key="find.popup" timestamp="1613715371050">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="217" y="33" width="932" height="662" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1613715371050" />
+  </component>
+</project>
