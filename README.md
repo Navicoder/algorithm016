@@ -34,20 +34,38 @@
 ##### 二叉树
 
 ```
-public void recur(int level, int param) {
-    // terminator
-    if(level > MAX_LEVEL) {
-        // process result
-        return;
+public List<Integer> inorderTraversal(TreeNode root) {
+    List<Integer> list = new ArrayList();
+    inorderTraversal(root,list);
+    return list;
+}
+   //前序遍历
+public void inorderTraversal(TreeNode root,List<Integer> list) {
+    if(root == null){
+        return ;
     }
-    
-    // process current logic
-    process(level, param);
-    
-    // drill down
-    recur(level: level + 1, newParam);
-    
-    // restore current status
+    list.add(root.val);
+    inorderTraversal(root.left,list);
+    inorderTraversal(root.right,list);
+}
+       //中序遍历
+public void inorderTraversal(TreeNode root,List<Integer> list) {
+    if(root == null){
+        return ;
+    }
+  
+    inorderTraversal(root.left,list);
+    list.add(root.val);
+    inorderTraversal(root.right,list);
+}
+//后序遍历
+public void inorderTraversal(TreeNode root,List<Integer> list) {
+    if(root == null){
+        return ;
+    }
+    inorderTraversal(root.left,list);
+    list.add(root.val);
+    inorderTraversal(root.right,list);
 }
 ```
 
